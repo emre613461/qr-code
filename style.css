@@ -13,6 +13,9 @@ h1 {
   padding-bottom: 0.5rem;
   font-family: "Kanit", sans-serif;
 }
+.mb-5 {
+  margin-bottom: 3rem;
+}
 main {
   display: flex;
   justify-content: center;
